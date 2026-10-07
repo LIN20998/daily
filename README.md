@@ -1,0 +1,2 @@
+# daily
+trivial daily questions.
